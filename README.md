@@ -2,6 +2,8 @@
 
 This repository contains a Python simulation of a single-arm robot, including real-time visualization of its movement as it attempts to reach a reference angle using a PD controller. The robot arm's dynamics are based on a second-order differential equation, and the simulation includes a time-domain plot comparing the actual angular position of the arm with the desired reference angle.
 
+![Single Arm Robot](single_arm_robot.png)
+
 ## Features
 - **Real-time simulation**: The robot arm moves in real-time towards the reference angle.
 - **PD control**: Proportional-Derivative (PD) controller adjusts the arm to reach the reference position.
